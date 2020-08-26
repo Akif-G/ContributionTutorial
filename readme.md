@@ -54,7 +54,7 @@ git checkout -b <developer's name or "develop">
 
 ```console
 git add .
-git commit -m "<AN EXPLANATION HERE>"
+git commit -m "<A GOOD EXPLANATION HERE>"
 ```
 ---
 8. 
@@ -70,3 +70,4 @@ You’ll see that your new branch is listed at the top with a handy “Compare &
 
 Once you are happy with the changes, press the “Create pull request” button and you’re done.
 ---
+source: https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
