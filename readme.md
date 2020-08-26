@@ -26,7 +26,7 @@ cd ContributionTutorial
 ```
 ---
 4. 
-- Add main codebase to be able to make pull requests easily.
+- Add main codebase to be able to make updates easily.
 ```console
 git remote add upstream https://github.com/Akif-G/ContributionTutorial
 ```
